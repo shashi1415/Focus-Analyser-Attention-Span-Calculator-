@@ -9,6 +9,18 @@ OVERVIEWS:
 - Uses Face and Gaze detector to determine availability/attentiveness.
 - Generates a raw report on frame by frame analysis
 
+  
+Using the app
+
+The application/project can be run on any Windows/Linux running device using python. Make sure to follow the steps below:
+
+- pip install opencv-python
+
+- pip install dlib
+
+- pip install  matplotlib
+
+- pip install  scipy
 
 
 
