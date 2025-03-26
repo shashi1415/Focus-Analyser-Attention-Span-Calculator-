@@ -27,6 +27,10 @@ The application/project can be run on any Windows running device using python. M
 
  OUTPUT:
  
- The working demo of project https://drive.google.com/file/d/1mO-Wy4Cr-tg2kZrN7X_CPTic6UTw0rgq/view?usp=sharing
+ - The working demo of project https://drive.google.com/file/d/1mO-Wy4Cr-tg2kZrN7X_CPTic6UTw0rgq/view?usp=sharing
+
+ - the graph of the working demo project is given link below:
+   https://drive.google.com/file/d/13LuX4fmvx9iDvDyCdlTvMxPa3CaEdKPp/view?usp=sharing
+ 
 
  
