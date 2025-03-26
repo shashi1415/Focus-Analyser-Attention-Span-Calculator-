@@ -12,7 +12,7 @@ OVERVIEWS:
   
 Using the app
 
-The application/project can be run on any Windows/Linux running device using python. Make sure to follow the steps below:
+The application/project can be run on any Windows running device using python. Make sure to follow the steps below:
 
 - pip install opencv-python
 
